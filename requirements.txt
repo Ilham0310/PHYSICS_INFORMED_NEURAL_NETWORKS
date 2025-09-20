@@ -1,0 +1,13 @@
+deepxde>=1.13.2
+tensorflow==2.19 # Allows pip to pick a compatible version in this range
+flask
+streamlit
+requests
+numpy
+Pillow
+scikit-image
+scikit-learn
+tensorflow_probability
+tf-keras
+pycocotools 
+tqdm
